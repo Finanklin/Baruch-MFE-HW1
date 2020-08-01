@@ -1,2 +1,2 @@
 # Baruch-MFE-HW
-Baruch MFE HW1 Python Seminar
+Baruch MFE HW Python Seminar
